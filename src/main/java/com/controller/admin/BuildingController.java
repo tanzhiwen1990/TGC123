@@ -206,7 +206,7 @@ public class BuildingController {
 				 position[1]=jw[1];
 			}
 		}
-		
+		/*------------*/
 		int i = 0;
 		try {
 			BuildingPojo bp = new BuildingPojo(Trade_Area, building_name, building_addr, building_rent,building_rent_unit,building_year,
